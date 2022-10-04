@@ -1,6 +1,6 @@
  # Deep image prior
 
-In this Folder I have provide *Deep_Image_Prior_Writeup.ipynb* to perform experiments for the paper:
+In this Folder I have provided *Deep_Image_Prior_Writeup.ipynb* to perform experiments for the paper:
 
 > **Deep Image Prior**
 
